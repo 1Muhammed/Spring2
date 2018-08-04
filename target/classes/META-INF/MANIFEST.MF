@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+Implementation-Title: spring-korucu2
+Implementation-Version: 0.0.1-VERSİON
 Built-By: vektorel
+Implementation-Vendor-Id: com.korucu
 Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-korucu2
 Created-By: Maven Integration for Eclipse
 
