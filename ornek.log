@@ -6605,3 +6605,6 @@ Unconditional classes:
 2018-08-04 17:57:25.302 DEBUG 5428 --- [restartedMain] o.s.w.c.s.StandardServletEnvironment     : Adding PropertySource 'server.ports' with highest search precedence
 2018-08-04 17:57:25.302  INFO 5428 --- [restartedMain] com.korucu.SpringRun                     : Started SpringRun in 0.501 seconds (JVM running for 5495.084)
 2018-08-04 17:57:25.304  INFO 5428 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2018-08-04 17:58:46.080  INFO 5428 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2018-08-04 17:58:46.080  INFO 5428 --- [RMI TCP Connection(2)-127.0.0.1] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2b5aa6e: startup date [Sat Aug 04 17:57:24 EET 2018]; root of context hierarchy
+2018-08-04 17:58:46.082  INFO 5428 --- [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
